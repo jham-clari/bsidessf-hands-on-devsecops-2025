@@ -9,6 +9,8 @@ This workshop is held at `BSides SF` on `April 26th 2025` at `12:30pm - 2:30pm`.
 
 Sign up is available at: https://bsidessf.regfox.com/2025
 
+J
+
 ## Workshop Outline
 
 This two hour workshop on Shifting Left guides BSides SF participants through integrating security tooling into a GitHub Actions based DevSecOps CI/CD pipeline.
